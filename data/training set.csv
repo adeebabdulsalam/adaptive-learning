@@ -1,0 +1,162 @@
+,company,OS,DBMS,OOP,DSA,Coding,Networks,Puzzles,Projects,OS,Networks,DBMS,DSA,CGPA
+X1,Dell,1,2,3,4,5,6,7,8,A,B,A,A,8.5
+X1,Target Corporation,7,5,3,1,4,8,6,2,B,C,B,D,7.36
+X1,Tesco,3,3,2,1,4,4,3,4,B,C,A,A,7.72
+X1,Oracle ,7,4,6,1,2,8,3,5,B,C,A,A,8.16
+X2,Oracle,4,3,4,2,1,5,3,2,B,C,B,C,7.36
+X1,Cisco systems,4,8,3,1,7,2,6,5,A,B,S,S,8.81
+X1,JPMorgan and Chase,3,3,2,1,4,3,2,1,A,A,S,S,9.14
+X1,ExxonMobil,5,3,2,1,3,6,4,3,C,C,B,D,7.36
+X3,Oracle,1,8,6,1,8,1,4,2,A,A,A,S,8.8
+X1,Micro Focus,2,1,1,1,2,2,1,1,A,S,S,A,8.84
+X2,Target Corporation,5,2,4,3,4,4,3,3,C,C,B,C,7.47
+X2,Dell,4,3,4,4,5,2,1,2,C,C,B,D,6.78
+X2,Microfocus,2,2,1,2,3,4,4,1,C,A,B,B,8.51
+X1,Deutsche Bank,1,1,1,1,3,6,3,1,B,B,B,C,7.26
+X4,Oracle,1,2,2,1,3,3,3,1,A,B,S,S,9.25
+X2,Cisco,3,6,5,4,8,2,7,1,A,S,S,S,9.29
+X3,Micro Focus,3,8,4,2,3,8,4,3,B,C,B,B,7.88
+X3,Dell,3,4,2,3,4,4,4,2,B,C,B,C,7.59
+X2,JP Morgan chase,2,2,2,2,2,1,1,2,A,B,S,A,9.09
+X2,Deutsche bank,2,4,1,3,4,8,8,4,C,C,B,C,7.68
+X1,Sandvine,7,4,6,5,8,3,2,1,B,B,A,A,8.84
+X4,Micro Focus,3,3,2,2,4,3,2,2,A,B,B,S,7.42
+X1,General electric,3,2,6,3,6,3,6,3,A,A,S,B,8.35
+X5,Microfocus,7,8,4,4,5,5,3,5,A,B,B,A,7.63
+X2,Tesco,4,5,5,1,2,7,7,2,B,A,A,S,8.86
+X2,Sandvine,1,2,2,4,2,6,5,1,C,D,B,D,7.55
+X3,Target Corporation ,2,2,6,8,7,4,6,8,E,A,E,A,8.38
+X5,Oracle,4,3,2,1,2,5,3,1,A,B,A,B,8.15
+X4,Target,8,2,1,1,1,8,8,1,A,S,B,A,8.63
+X1,Amazon,2,4,3,1,6,4,8,7,A,C,E,A,7.71
+X5,Target Corporation ,3,1,2,1,1,4,4,2,B,C,B,C,7.78
+X3,JP Morgan,2,2,2,1,3,8,8,1,B,B,A,C,8
+X3,Cisco,2,1,1,1,1,2,1,1,B,B,B,A,7.34
+X4,Dell,6,5,4,7,8,1,2,3,C,C,B,D,6.96
+X6,Oracle,8,3,2,1,4,8,1,2,B,B,A,A,8.76
+X4,JP Morgan Chase & Co.,6,3,2,4,4,7,4,3,C,B,C,B,8.2
+X1,Oracle Financial Services Software ,8,8,7,4,8,8,4,5,B,B,B,B,7.38
+X7,Oracle,2,3,1,1,1,8,3,2,A,C,A,S,8.3
+X8,Oracle,2,3,3,1,2,3,6,2,B,C,B,A,8.58
+X5,Dell,4,2,3,1,3,4,2,1,C,B,B,C,7.86
+X1,AppDynamics,1,2,5,7,7,4,5,8,C,B,B,A,8.3
+X1,Qualcomm,1,8,8,2,4,4,2,2,A,S,A,A,9.19
+X4,Cisco,1,4,2,2,6,4,5,5,A,S,S,S,9.36
+X3,Deutche Bank,3,3,1,2,3,8,8,2,B,B,A,A,8.37
+X7,Target,5,1,3,2,3,5,3,1,D,D,A,E,7.14
+X8,Target corporation,8,1,7,3,7,8,8,1,C,C,B,C,7.42
+X9,Target,6,8,1,1,4,2,1,2,B,B,B,A,8.43
+X9,Oracle,8,8,8,1,3,8,2,8,B,B,A,A,8.63
+X1,Microsoft,6,6,4,1,2,6,5,3,B,A,S,S,8.96
+X10,Oracle,8,4,2,1,8,8,8,3,S,S,S,S,9.63
+X10,Target Corporation,5,2,3,1,3,6,4,2,B,D,B,S,8.02
+X1,Informatica,5,4,5,8,8,3,2,5,B,A,B,C,8.56
+X11,Target Corporation ,5,6,4,7,8,3,1,2,C,C,B,D,7.23
+X2,General Electric Healthcare,5,8,8,3,6,8,2,1,B,B,S,A,8.78
+X5,JPMC,6,5,4,1,7,8,2,3,A,A,A,S,9.22
+X6,DELL,5,2,3,4,8,7,6,1,A,B,A,A,8.57
+X1,Morgan Stanley,2,3,1,1,2,3,2,2,A,B,A,A,8.61
+X3,Tesco,4,5,6,2,1,7,8,3,B,B,B,B,8.4
+X1,Itron,6,2,3,4,5,7,8,1,B,B,A,C,8.08
+X1,Paytm,4,2,2,2,3,5,2,2,C,C,B,D,7.35
+X1,Amadeus Labs,5,7,6,6,6,7,7,4,C,C,D,D,6.58
+X11,Oracle,8,1,1,3,1,8,1,1,C,B,B,D,7.2
+X1,Amdocs,8,1,1,1,3,8,1,1,D,E,B,E,6.7
+X2,Microsoft,8,8,3,1,1,8,3,2,A,B,A,A,8.6
+X2,Amdocs,4,1,3,6,8,8,5,1,C,D,B,D,7
+X12,Target,7,6,4,2,3,8,5,1,B,C,B,C,7.44
+X13,Target Corporation,4,1,3,2,8,6,7,5,C,B,B,C,7.93
+X1,Radisys,1,7,4,4,8,6,3,2,B,D,C,B,7.42
+X3,Sandvine,2,3,3,1,1,3,2,3,B,B,A,A,8.6
+X1,Publicis Sapient,4,2,3,4,5,6,4,2,C,C,C,E,7.15
+X12,Oracle,8,8,4,2,6,8,2,6,B,C,B,S,8.61
+X6,JP Morgan & Chase,5,4,3,3,3,1,1,1,C,C,C,C,7.38
+X3,AMDOCS,3,1,6,2,5,4,8,7,D,D,C,C,6.99
+X1,Pathpartner ,1,8,2,3,2,8,2,3,B,A,B,C,8.11
+X14,Target,2,2,4,2,8,8,8,1,C,C,C,C,7.22
+X3,Microsoft,5,8,4,1,2,7,3,6,A,B,C,B,7.99
+X15,Target Corporations,7,2,2,2,4,4,2,1,B,B,A,D,7.41
+X13,Oracle,5,6,7,2,1,8,4,3,B,C,B,S,8.16
+X16,Target Corporation,5,7,6,2,1,8,3,4,B,C,D,A,8.04
+X4,Amdocs,1,2,1,1,3,2,3,3,D,C,D,C,6.65
+X7,JPMC,5,2,4,3,8,6,7,1,B,S,B,A,8.4
+X8,Jp Morgan,4,5,5,1,3,6,7,2,A,B,A,C,8.76
+X9,JP Morgan,5,4,3,4,2,8,3,4,B,C,A,C,8.12
+X1,BigBasket,6,5,7,3,1,8,4,2,C,D,C,C,7.16
+X5,Amdocs,3,6,6,6,1,1,2,8,C,D,B,D,6.66
+X6,Amdocs,3,1,5,2,8,6,7,4,C,E,C,D,6.58
+X5,Cisco,3,5,3,2,2,2,5,1,C,B,B,C,8.05
+X1,CGI,8,3,4,1,5,7,6,2,B,B,A,C,7.9
+X1,Deloitte,4,2,8,5,6,7,3,1,C,D,B,C,6.91
+X1,SAP Labs,3,2,1,7,8,6,5,4,B,A,A,B,7.88
+X7,Amdocs,5,4,3,2,6,8,7,1,D,D,C,E,6.55
+X1,Infosys,4,4,5,6,7,3,6,5,D,D,D,D,6.46
+X1,Factset,8,8,8,1,1,8,2,8,B,A,A,B,8.18
+X7,Dell,4,4,5,5,8,5,2,8,C,B,A,B,8.1
+X2,Bigbasket,3,6,1,2,8,5,7,4,B,C,C,A,7.54
+X1,Nutanix,1,4,4,1,2,8,8,2,B,A,B,A,8.44
+X6,Cisco,3,7,6,4,8,1,5,2,B,D,C,A,6.98
+X14,Oracle,3,2,2,1,3,2,2,1,B,C,B,B,7.44
+X8,DELL,4,3,5,6,6,5,6,8,B,B,A,D,8.2
+X2,Amadeus Labs,7,4,1,3,8,6,5,2,C,C,B,C,6.74
+X1,Ford,7,6,5,6,8,7,7,1,C,D,E,C,6.23
+X1,TALLY SOLUTIONS PRIVATE LIMITED,8,1,1,1,1,8,1,2,C,C,B,B,7.25
+X1,Adobe,2,3,3,4,2,2,3,2,B,A,A,A,8.01
+X15,Oracle,4,5,3,1,7,8,2,6,A,C,A,A,7.99
+X16,Oracle,5,6,4,1,3,8,7,2,B,C,B,B,8.2
+X1,C DOT,3,3,2,2,2,3,3,3,D,C,C,D,6.86
+X1,One convergence ,2,2,2,3,4,4,7,6,C,B,B,D,6.9
+X6,Micro Focus,2,2,1,1,1,3,3,2,B,C,B,C,7.38
+X1,Society Generale,4,1,1,3,3,3,3,1,B,A,S,A,8.85
+X4,Tesco,3,4,3,2,3,3,2,2,A,A,A,A,8.98
+X1,Cavium networks,3,7,3,1,4,2,2,1,A,C,B,B,8.07
+X10,JP Morgan Chase &Co,8,3,4,5,6,7,1,2,B,B,A,D,7.3
+X2,Tally Solutions ,3,2,2,4,5,6,1,3,B,B,B,B,7.85
+X17,Oracle,2,2,1,2,3,2,1,2,B,B,A,B,8.66
+X1,Anon,3,4,3,4,4,4,1,2,B,A,D,B,8.3
+X1,Capgemini,4,3,2,1,2,4,3,4,C,C,C,C,7
+X4,Amadeus Labs,3,5,2,2,3,7,2,2,A,B,B,S,8.51
+X9,Dell,5,7,2,3,4,8,1,6,B,C,C,B,8.15
+X2,Deloitte,2,1,2,2,3,2,2,2,B,B,A,B,7.52
+X7,Cisco,6,6,8,7,4,7,5,6,A,B,B,A,8.4
+X18,Oracle,2,2,1,1,3,1,1,1,B,A,A,A,8.5
+X22,Oracle India Pvt Ltd,2,1,4,2,4,4,1,3,C,B,B,A,7.36
+X11,JP Morgan Chase,3,2,1,1,2,4,3,2,A,B,B,A,7.78
+X1,Goldman Sachs,3,3,3,1,1,2,1,2,C,A,B,B,7.83
+X10,Cisco Systems,2,1,3,1,3,1,1,1,S,A,A,A,8.7
+X2,Morgan Stanley,1,1,1,1,2,5,3,5,A,A,A,A,8.53
+X3,"Amadeus Labs, Bengaluru.",4,2,4,2,3,2,1,1,D,E,E,D,6.6
+X2,Goldman Sachs,2,3,1,1,2,3,2,2,A,A,A,A,8.52
+X19,Oracle,2,3,1,2,2,4,2,1,A,A,B,S,8.9
+X2,Cdot,2,5,2,2,4,2,5,4,B,B,C,B,6.8
+X2,"Wipro Ltd, Capgemini",7,1,3,3,2,5,2,1,B,C,B,A,7.61
+X10,Dell,3,3,2,2,1,3,1,1,C,C,B,A,8.43
+X12,JP Morgan,5,6,1,8,5,2,7,6,D,D,C,C,6.78
+X13,JP Morgan Chase & Co.,5,3,8,4,8,8,8,8,A,B,A,B,8.3
+X14,JP Morgan,4,6,4,8,8,5,5,7,A,C,C,A,8.31
+X1,Tenderd,6,2,3,5,5,5,2,1,C,C,A,B,6.47
+X4,Deutsche Bank,2,1,1,1,1,2,2,1,C,C,A,B,7.9
+X11,Dell,2,4,2,3,3,4,2,1,B,A,C,B,8.4
+X15,JP Morgan,1,1,1,1,1,3,1,1,B,B,C,B,7.89
+X1,Schneider Electric,6,7,3,2,2,2,4,7,C,C,C,D,6.7
+X8,Cisco,7,1,1,1,1,8,1,8,B,A,D,B,7.88
+X1,Thermo Fisher Scientific,6,5,8,3,4,7,1,2,C,C,C,C,7.67
+X2,App Dynamics,4,5,2,1,3,7,8,6,B,C,B,B,7.6
+X3,Morgan Stanley,3,4,2,1,5,8,6,7,A,B,A,A,8.87
+X2,CGI,8,1,4,5,3,2,6,7,C,C,C,D,6.93
+X9,Cisco,1,1,1,8,7,6,1,6,C,C,C,A,8.43
+X1,Make my trip,4,2,1,1,1,7,5,2,D,B,B,C,6.72
+X16,JP Morgan Chase,1,4,2,3,5,6,7,8,B,B,B,C,7.85
+X17,Jp Morgan Chase,5,3,3,1,1,5,5,2,B,B,A,B,8.03
+X20,Oracle,8,6,2,1,5,7,4,3,B,D,C,A,7.72
+X2,Societe Generale,7,4,4,4,5,4,2,2,A,B,B,B,8.41
+X3,SGGSC,5,1,3,3,6,5,5,4,B,B,A,B,8.1
+X18,JP Morgan Chase,5,7,8,8,8,5,7,2,C,C,C,C,7.47
+X1,Directi,3,3,3,2,1,5,8,1,A,B,A,A,8.2
+X3,capgemini,3,3,3,3,3,3,2,1,C,D,C,C,7.08
+X3,C-DOT,2,2,3,2,3,3,3,2,A,A,S,A,8.8
+X2,Nutanix,1,2,3,1,1,7,8,2,B,C,A,A,7.71
+X19,JPMC,1,1,1,1,1,1,3,4,B,C,C,B,7.8
+X21,Oracle,3,1,1,1,3,2,3,1,A,A,B,B,8.4
+X5,Deutsche Bank,7,6,7,8,8,7,8,6,E,E,D,E,5.56
+X2,Qualcomm,1,1,1,3,3,5,3,1,D,C,C,D,7.3
